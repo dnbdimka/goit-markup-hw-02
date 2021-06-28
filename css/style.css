@@ -169,10 +169,9 @@ footer address a:focus {
   letter-spacing: 0.03em;
   color: #212121;
 }
-.filter button:hover {
-  background: var(--brand-color);
-}
+.filter button:hover,
 .filter .filter-active {
+  color: #fff;
   background: var(--brand-color);
 }
 /* our works */
